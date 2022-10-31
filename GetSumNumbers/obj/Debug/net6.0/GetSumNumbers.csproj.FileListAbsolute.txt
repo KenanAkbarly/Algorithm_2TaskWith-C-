@@ -1,0 +1,15 @@
+D:\C#\Algorithm 2\GetSumNumbers\GetSumNumbers\bin\Debug\net6.0\GetSumNumbers.exe
+D:\C#\Algorithm 2\GetSumNumbers\GetSumNumbers\bin\Debug\net6.0\GetSumNumbers.deps.json
+D:\C#\Algorithm 2\GetSumNumbers\GetSumNumbers\bin\Debug\net6.0\GetSumNumbers.runtimeconfig.json
+D:\C#\Algorithm 2\GetSumNumbers\GetSumNumbers\bin\Debug\net6.0\GetSumNumbers.dll
+D:\C#\Algorithm 2\GetSumNumbers\GetSumNumbers\bin\Debug\net6.0\GetSumNumbers.pdb
+D:\C#\Algorithm 2\GetSumNumbers\GetSumNumbers\obj\Debug\net6.0\GetSumNumbers.csproj.AssemblyReference.cache
+D:\C#\Algorithm 2\GetSumNumbers\GetSumNumbers\obj\Debug\net6.0\GetSumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Algorithm 2\GetSumNumbers\GetSumNumbers\obj\Debug\net6.0\GetSumNumbers.AssemblyInfoInputs.cache
+D:\C#\Algorithm 2\GetSumNumbers\GetSumNumbers\obj\Debug\net6.0\GetSumNumbers.AssemblyInfo.cs
+D:\C#\Algorithm 2\GetSumNumbers\GetSumNumbers\obj\Debug\net6.0\GetSumNumbers.csproj.CoreCompileInputs.cache
+D:\C#\Algorithm 2\GetSumNumbers\GetSumNumbers\obj\Debug\net6.0\GetSumNumbers.dll
+D:\C#\Algorithm 2\GetSumNumbers\GetSumNumbers\obj\Debug\net6.0\refint\GetSumNumbers.dll
+D:\C#\Algorithm 2\GetSumNumbers\GetSumNumbers\obj\Debug\net6.0\GetSumNumbers.pdb
+D:\C#\Algorithm 2\GetSumNumbers\GetSumNumbers\obj\Debug\net6.0\GetSumNumbers.genruntimeconfig.cache
+D:\C#\Algorithm 2\GetSumNumbers\GetSumNumbers\obj\Debug\net6.0\ref\GetSumNumbers.dll
