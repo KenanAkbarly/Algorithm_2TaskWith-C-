@@ -16,7 +16,7 @@ for(i = 1; i <= GetNumber; i++)
 }
 Console.WriteLine("Answer:" + sum);
 */
-
+/* Taken Number of elementsin loop */
 int i;
 for (i = 1; i < 100; i++)
 {
